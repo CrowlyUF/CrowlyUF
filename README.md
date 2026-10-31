@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://crew-x.vercel.app/"><img src="https://img.shields.io/badge/CrewX-Website-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="CrewX website" /></a>
+<a href="https://github.com/4everdies/CrewX"><img src="https://img.shields.io/badge/CrewX-Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="CrewX repository" /></a>
 <a href="https://discord.com/users/crowly.md"><img src="https://img.shields.io/badge/Discord-crowly.md-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <img src="https://komarev.com/ghpvc/?username=CrowlyUF&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="profile views" />
 <a href="https://github.com/CrowlyUF?tab=followers"><img src="https://img.shields.io/github/followers/CrowlyUF?style=for-the-badge&color=A78BFA&logo=github&logoColor=white" alt="followers" /></a>
