@@ -40,21 +40,6 @@ Falo **português** e **inglês**.
 
 <br/>
 
-## ⚔️ Both sides of the game
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗡️ Offense</h3>
-      Cheats for several games. The best way I know to learn how a game really works is to bend it.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ Defense</h3>
-      Anticheats. Thinking like the attacker to close the gaps before someone else finds them.
-    </td>
-  </tr>
-</table>
-
 <details>
 <summary>🕹️ <b>How it all started</b> <i>(click to expand)</i></summary>
 
@@ -68,24 +53,6 @@ Falo **português** e **inglês**.
 
 </details>
 
-<br/>
-
-## 🚀 Current project
-
-<div align="center">
-
-<a href="https://github.com/4everdies/CrewX">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api/pin/?username=4everdies&repo=CrewX&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=22d3ee" alt="CrewX" />
-</a>
-
-</div>
-
-**CrewX** is a Minecraft client built for Brazilian servers, based on OpenMyau. The focus is on bypasses that actually work and on keeping performance high.
-
-<a href="https://github.com/4everdies/CrewX"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" alt="source" /></a>
-<a href="https://crew-x.vercel.app/"><img src="https://img.shields.io/badge/Visit-crew--x.vercel.app-22d3ee?style=for-the-badge&logo=vercel&logoColor=black" alt="website" /></a>
-
-<br/>
 <br/>
 
 ## 🧰 Stack
